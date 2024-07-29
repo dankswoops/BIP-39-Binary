@@ -1,4 +1,5 @@
 <div align="center">
+
 # BIP-39-Binary
 This repository contains images illustrating the Binary Tree Structure for BIP-39 Mnemonics.
   
